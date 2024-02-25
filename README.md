@@ -1,2 +1,2 @@
-"# DjangoHomework3" 
+﻿# DjangoHomework3
 Coding Factory 3
